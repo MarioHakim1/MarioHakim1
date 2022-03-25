@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarioHakim1
-- 👀 I’m interested in SQL Databases, Coding, Data Analysis, Technical Analysis, 
+- 👀 I’m interested in SQL Databases, Coding, Data Analysis, Technical Analysis and Web Development.
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on many projects
 - 📫 Reach me by email at mariohakim16@gmail.com
